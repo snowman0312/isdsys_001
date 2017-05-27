@@ -1,5 +1,7 @@
 package common.util;
-
+/**
+*
+*/
 public class Point {
 	public long getX() {
 		return x;
