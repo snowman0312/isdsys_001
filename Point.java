@@ -1,6 +1,6 @@
 package common.util;
 /**
-*
+* PointƒNƒ‰ƒX
 */
 public class Point {
 	public long getX() {
